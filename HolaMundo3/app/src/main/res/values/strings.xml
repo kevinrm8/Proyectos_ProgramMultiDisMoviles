@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HolaMundo3</string>
+    <string name="miTexto">Nombre</string>
+    <string name="miBoton">Saludar</string>
+    <string name="elSaludo">TextView</string>
+    <string name="miMensaje">TextView</string>
+    <string name="miBoton2">Devolver</string>
+    <string name="mitexto2"></string>
+</resources>
