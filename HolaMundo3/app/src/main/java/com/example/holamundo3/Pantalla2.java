@@ -65,7 +65,7 @@ public class Pantalla2 extends AppCompatActivity {
     }
     @Override
     protected void onDestroy() {
-        Toast.makeText(this,"onDestroy", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this,"onDestroy-Pantalla2", Toast.LENGTH_SHORT).show();
         super.onDestroy();
     }
 }
