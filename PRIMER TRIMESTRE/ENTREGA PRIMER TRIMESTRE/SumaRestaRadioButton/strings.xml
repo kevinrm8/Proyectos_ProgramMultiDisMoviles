@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SumaRestaRadioButton</string>
+    <string name="numero1"></string>
+    <string name="numero2"></string>
+    <string name="rb_suma">Suma</string>
+    <string name="rb_resta">Resta</string>
+    <string name="resultad">Resultado</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EjercicioEntregaPerro</string>
+    <string name="app_name2">Visor</string>
+    <string name="show_pet_button">Mostrar Boton mascota</string>
+    <string name="resp_texto"></string>
+    <string name="page_link">Autores</string>
+    <string name="img_perro">Perro Lindo</string>
+    <dimen name = "activity_horizontal_margin">10dp</dimen>
+    <dimen name = "activity_vertical_margin">10dp</dimen>
+    <string name = "hermoso">Hermoso</string>
+    <string name = "lindo">Lindo</string>
+    <string name = "normal">Normal</string>
+    <string name = "horroroso">Horroroso</string>
+    <string name = "b_enviar">Enviar</string>
+</resources>
