@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/AppTheme.fragment">
+
+    <TextView
+        android:id="@+id/tvTitulo"
+        style="@style/AppTheme.tvTitulo"/>
+
+    <EditText
+        android:id="@+id/txtCodigo"
+        style="@style/AppTheme.editText"
+        android:layout_below="@id/tvTitulo"
+        android:hint="@string/txtCodigo"
+        android:importantForAutofill="no" />
+
+    <EditText
+        android:id="@+id/txtNombre"
+        style="@style/AppTheme.editText"
+        android:layout_below="@id/txtCodigo"
+        android:hint="@string/txtNombre"
+        android:importantForAutofill="no" />
+
+</RelativeLayout>

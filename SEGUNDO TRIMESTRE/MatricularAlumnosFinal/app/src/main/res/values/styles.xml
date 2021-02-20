@@ -1,0 +1,55 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#03A9F4</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimaryDark">#03A9F4</item>
+        <item name="android:colorBackground">@android:color/white</item>
+    </style>
+    <style name="AppTheme.BotonPrincipal" parent="Theme.AppCompat">
+        <item name="android:background">@drawable/botonazul</item>
+        <item name="android:textColor">@color/blanco</item>
+        <item name="android:width">120dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">15dp</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+    <style name="AppTheme.fragment" parent="Theme.AppCompat">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginTop">50dp</item>
+    </style>
+    <style name="AppTheme.tvTitulo" parent="Theme.AppCompat">
+        <item name="android:background">#03A9F4</item>
+        <item name="android:text">@string/tvTitulo</item>
+        <item name="android:textColor">@color/blanco</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="AppTheme.editText">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:ems">10</item>
+        <item name="android:inputType">text</item>
+    </style>
+    <style name="AppTheme.fab" parent="Theme.AppCompat">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="AppTheme.recyclerView" parent="Theme.AppCompat">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:scrollbars">vertical</item>
+    </style>
+    <style name="AppTheme.imButton" parent="Theme.AppCompat">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+</resources>
